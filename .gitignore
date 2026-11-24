@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+musicstream/generated/*_pb2*.py
+musicstream/generated/*_pb2*.pyi
+results/*
+!results/.gitkeep
+*.pptx
+.DS_Store
